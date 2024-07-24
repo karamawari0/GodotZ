@@ -218,7 +218,7 @@ spot_range = 2.06895
 spot_angle = 31.3833
 
 [node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
-transform = Transform3D(2.37, 0, 0, 0, 2.20216, 0, 0, 0, 0.64, 0.932065, 1.02706, 0.0540936)
+transform = Transform3D(2.37, 0, 0, 0, 2.20216, 0, 0, 0, 0.64, 0.932065, 1.02706, 0.828553)
 shaded = true
 texture_filter = 0
 sprite_frames = SubResource("SpriteFrames_4c7u6")
