@@ -204,7 +204,7 @@ surface_material_override/0 = ExtResource("1_cxr1k")
 surface_material_override/1 = ExtResource("1_cxr1k")
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
-transform = Transform3D(0.986711, -0.12925, 0.0984721, -0.159533, -0.885654, 0.43608, 0.030849, -0.445994, -0.894504, -0.247562, 4.57732, -6.90532)
+transform = Transform3D(0.98671, -0.12925, 0.0984721, -0.140791, -0.982616, 0.121013, 0.0811192, -0.133269, -0.987755, -0.247562, 2.37139, -6.90532)
 light_color = Color(0.819905, 0.439405, 3.85046e-07, 1)
 shadow_enabled = true
 
@@ -218,7 +218,7 @@ spot_range = 2.06895
 spot_angle = 31.3833
 
 [node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
-transform = Transform3D(2.37, 0, 0, 0, 2.20216, 0, 0, 0, 0.64, 0.932065, 1.02706, 0.828553)
+transform = Transform3D(2.37, 0, 0, 0, 2.20216, 0, 0, 0, 0.64, 0.932065, 1.02706, 0.222559)
 shaded = true
 texture_filter = 0
 sprite_frames = SubResource("SpriteFrames_4c7u6")
