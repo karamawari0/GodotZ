@@ -11,12 +11,14 @@ config_version=5
 [application]
 
 config/name="NewGODOT"
-run/main_scene="res://newflat.fbx"
+run/main_scene="res://newflat3.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
 [editor]
 
+movie_writer/movie_file="C:/Users/acern/OneDrive/Документы/GODOTprj/Godot/vidz.avi"
+movie_writer/disable_vsync=true
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
 
